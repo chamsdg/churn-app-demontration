@@ -2,4 +2,3 @@ sklearn
 numpy
 streamlit
 pandas
-timeit
