@@ -2,3 +2,4 @@ sklearn
 numpy
 streamlit
 pandas
+matplotlib
